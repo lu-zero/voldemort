@@ -146,7 +146,7 @@ For more information about templating read the following documentations.
 You can change the default settings by editing the `settings.yaml`.
 
 	layout_dirs : 
-                  - layout		# directory inwhich base tempaltes reside
+                  - layout		# directory in which base templates reside
                   - include		# html code that can be included goes here
 	posts_dir   : posts			# directory where you write posts
 	post_url    : "%Y/%m/%d"	# url to posts. You can alter the order
